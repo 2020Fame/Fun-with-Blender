@@ -1,0 +1,9 @@
+While exporting disable compression to make in work in windows 3d
+
+Hooks does nt work for exporting
+
+CTRL H to add a hook to mesh
+
+export jpeg format saves space
+
+aNIMATIONS DISABLE EXPORT ONLY BONES
